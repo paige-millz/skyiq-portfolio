@@ -148,4 +148,6 @@ I designed everything visual about SkyIQ — logo, color palette, typography, wi
 
 ---
 
+---
+
 *Built by [Paige Miller](https://github.com/paige-millz) — Co-Founder, Product & Design*
