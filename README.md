@@ -76,22 +76,6 @@ I designed everything visual about SkyIQ — logo, color system, typography, wir
   <img src="artifacts/brand-identity.png" alt="Brand Identity" width="700"/>
 </p>
 
-### Brand System Details
-
-<p align="center">
-  <img src="artifacts/brand-board.png" alt="Brand Board — Color Palette, Typography & Logo Variations" width="700"/>
-</p>
-
-**Color Palette:** Navy (#012053) · Sky Blue (#7EB1D5) · Cloud (#F7F7F2) · Stone (#A9A9A1) · Charcoal (#8F8F8F) · Amber (#FFA328)
-
-**Typography:** Barlow (headlines) · Montserrat (body)
-
-**Logo:** I designed the SkyIQ logomark in Adobe Illustrator — an airplane window with clouds, representing the intersection of aviation and intelligent planning. Built with multiple lockups for different contexts (horizontal, stacked, icon-only, light/dark backgrounds).
-
-<p align="center">
-  <img src="artifacts/logo-lockup.png" alt="SkyIQ Logo — Adobe Illustrator" width="400"/>
-</p>
-
 <details>
 <summary><strong>Wireframes & one-pager</strong></summary>
 <br/>
